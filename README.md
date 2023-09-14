@@ -12,7 +12,7 @@ To run this script, you will need to have the following installed:
 
 ## Instructions
 
-1. Create a new file named `bash.sh` in your preferred text editor.
+1. Create a new file named `build3.sh` in your preferred text editor.
 2. Copy and paste the following code into the file:
 
 ```
@@ -73,13 +73,13 @@ read -p "Press Enter to continue..."
 4. Make the file executable by running the following command:
 
 ```
-chmod +x bash.sh
+chmod +x build3.sh
 ```
 
 5. Run the script by typing the following command:
 
 ```
-./bash.sh
+./build3.sh
 ```
 
 ## Explanation
